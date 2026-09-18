@@ -6,13 +6,13 @@ I use Linux regularly and am developing my Python, Bash, Git/GitHub, troubleshoo
 
 ## Featured Projects
 
-### Upgrade Life
+### [Upgrade Life](https://github.com/cbricco/UpgradeLife-Portfolio)
 
 A personal, AI-assisted project exploring a voice-first personal assistant with structured requests, deterministic workflows, input validation, testing, and controlled approvals.
 
 The employer-facing repository is a sanitized snapshot of a larger private project.
 
-### Hands-Free Auto Lab
+### [Hands-Free Auto Lab](https://github.com/cbricco/Hands-Free-Auto-Lab-Portfolio)
 
 A personal, AI-assisted coding-automation project exploring bounded coding jobs, isolated workspaces, deterministic controls, verification, fail-closed behavior, and human-controlled promotion.
 
