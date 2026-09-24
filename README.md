@@ -24,7 +24,9 @@ This 23.5-second terminal demo shows an automated regression and verification su
 
 This is personal, AI-assisted project work. AI generated the implementation code; my role includes defining requirements and expected behavior, running and reviewing verification evidence, troubleshooting results, and deciding whether changes should progress.
 
-**[Watch the terminal testing demo](media/Chris_Bricco_Personal_Project_Terminal_Demo.mp4)**
+https://github.com/user-attachments/assets/7c3c4ba3-78a3-4d8d-adae-d2a670169a2e
+
+[Download the MP4 copy](media/Chris_Bricco_Personal_Project_Terminal_Demo.mp4)
 
 ## AI-Assisted Development
 
