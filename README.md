@@ -16,6 +16,16 @@ The employer-facing repository is a sanitized snapshot of a larger private proje
 
 A personal, AI-assisted coding-automation project exploring bounded coding jobs, isolated workspaces, deterministic controls, verification, fail-closed behavior, and human-controlled promotion.
 
+## Short Technical Demo
+
+### Personal Python/Linux Project — Automated Regression Testing
+
+This 23.5-second terminal demo shows an automated regression and verification suite running in my Linux development environment and finishing with a successful verification result.
+
+This is personal, AI-assisted project work. AI generated the implementation code; my role includes defining requirements and expected behavior, running and reviewing verification evidence, troubleshooting results, and deciding whether changes should progress.
+
+**[Watch the terminal testing demo](media/Chris_Bricco_Personal_Project_Terminal_Demo.mp4)**
+
 ## AI-Assisted Development
 
 AI generated essentially all implementation code in my major personal software projects. I do not present those codebases as independently authored work.
