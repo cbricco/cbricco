@@ -16,6 +16,12 @@ The employer-facing repository is a sanitized snapshot of a larger private proje
 
 A personal, AI-assisted coding-automation project exploring bounded coding jobs, isolated workspaces, deterministic controls, verification, fail-closed behavior, and human-controlled promotion.
 
+## Additional Project
+
+### [Homelab Infrastructure as Code](https://github.com/cbricco/homelab-infrastructure-portfolio)
+
+Personal OpenTofu/Proxmox learning project covering Terraform-compatible HCL, supervised infrastructure changes, validation, lifecycle testing, and recovery documentation.
+
 ## Short Technical Demo
 
 ### Personal Python/Linux Project — Automated Regression Testing
