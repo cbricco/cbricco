@@ -28,7 +28,7 @@ Personal OpenTofu/Proxmox learning project covering Terraform-compatible HCL, su
 
 This 23.5-second terminal demo shows an automated regression and verification suite running in my Linux development environment and finishing with a successful verification result.
 
-This is personal, AI-assisted project work. AI generated the implementation code; my role includes defining requirements and expected behavior, running and reviewing verification evidence, troubleshooting results, and deciding whether changes should progress.
+This is personal, AI-assisted project work. My role includes defining requirements and expected behavior, reviewing tests and verification evidence, troubleshooting results, and deciding whether changes are acceptable and should progress.
 
 https://github.com/user-attachments/assets/7c3c4ba3-78a3-4d8d-adae-d2a670169a2e
 
@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/7c3c4ba3-78a3-4d8d-adae-d2a670169a2e
 
 AI generated essentially all implementation code in my major personal software projects. I do not present those codebases as independently authored work.
 
-My role focuses on defining goals and desired behavior, designing workflows, setting approval and safety expectations, reviewing tests and verification evidence, troubleshooting results, and deciding whether changes match the intended behavior.
+My role focuses on defining goals and requirements, designing workflows, setting approval and change-control expectations, reviewing tests and verification evidence, troubleshooting results, and deciding whether changes match the intended behavior and should progress.
 
 ## Skills I'm Developing
 
